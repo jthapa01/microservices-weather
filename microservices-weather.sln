@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.DataLoader", "CloudWeather.DataLoader\CloudWeather.DataLoader.csproj", "{470917C4-972F-499C-BD5A-E8F14B075749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.Precipitation", "CloudWeather.Precipitation\CloudWeather.Precipitation.csproj", "{836A7C65-1099-4FA8-8898-35B1F98561DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.Report", "CloudWeather.Report\CloudWeather.Report.csproj", "{B1CD1A17-0AF6-47C5-841E-9141E11A61F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudWeather.Temperature", "CloudWeather.Temperature\CloudWeather.Temperature.csproj", "{A908D916-8ECC-4213-BEC8-B83904A388B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470917C4-972F-499C-BD5A-E8F14B075749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470917C4-972F-499C-BD5A-E8F14B075749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470917C4-972F-499C-BD5A-E8F14B075749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470917C4-972F-499C-BD5A-E8F14B075749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836A7C65-1099-4FA8-8898-35B1F98561DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836A7C65-1099-4FA8-8898-35B1F98561DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836A7C65-1099-4FA8-8898-35B1F98561DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836A7C65-1099-4FA8-8898-35B1F98561DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CD1A17-0AF6-47C5-841E-9141E11A61F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CD1A17-0AF6-47C5-841E-9141E11A61F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CD1A17-0AF6-47C5-841E-9141E11A61F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CD1A17-0AF6-47C5-841E-9141E11A61F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A908D916-8ECC-4213-BEC8-B83904A388B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A908D916-8ECC-4213-BEC8-B83904A388B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A908D916-8ECC-4213-BEC8-B83904A388B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A908D916-8ECC-4213-BEC8-B83904A388B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
